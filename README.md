@@ -6,3 +6,6 @@ Analyzing Amazon’s Alexa product and discovering insights into consumer review
 
 Libraries Used:   zipfile, Pandas, Numpy, Seaborn, Matplotlib, NLTK, re, string, Worldcloud, Sklearn.
 
+
+Source:    https://www.kaggle.com/sid321axn/amazon-alexa-reviews
+
